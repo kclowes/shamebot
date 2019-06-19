@@ -9,6 +9,7 @@ CAP_REPOS = [
     "ethereum/web3.py",
     "ethereum/eth-utils",
     "ethpm/py-ethpm",
+    "ethpm/ethpm-cli",
     "ethereum/vyper",
     "ethereum/py-wasm",
     "ethereum/lahja",
